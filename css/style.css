@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+img {
+  vertical-align: middle;
+}
+
 #header {
   width: 1100px;
   margin: 0 auto;
@@ -19,4 +23,5 @@ a {
 
 #container {
   background-color: green;
+  color: #fff;
 }
