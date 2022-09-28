@@ -20,6 +20,14 @@ body {
   font-size: 20px;
 }
 
+input {
+  outline: 0;
+}
+
+textarea {
+  resize: none;
+}
+
 #header {
   width: 1100px;
   margin: 0 auto;
